@@ -1,0 +1,129 @@
+@import "tailwindcss";
+@import "./styles/typography.css";
+
+/* === Default (Light Mode) === */
+:root {
+  --background: #ffffff;
+  --foreground: #111111;
+  --border: #dcdcdc;
+  --surface: #f9f9f9;
+  --text-muted: #555555;
+  --accent: #2563eb;
+}
+
+/* === Dark Mode === */
+[data-theme="dark"] {
+  --background: #0a0a0a;
+  --foreground: #f5f5f5;
+  --border: #333333;
+  --surface: #1a1a1a;
+  --text-muted: #aaaaaa;
+  --accent: #60a5fa;
+}
+
+/* === Base === */
+body {
+  background: var(--background);
+  color: var(--foreground);
+  max-width: 720px;
+  margin: auto;
+  padding: 2rem; /* default untuk layar besar */
+  transition: background 0.2s ease, color 0.2s ease;
+}
+
+main {
+  padding: clamp(0.75rem, 4vw, 2rem);
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  body {
+    padding: 1.5rem;
+  }
+}
+
+/* Smartphone */
+@media (max-width: 640px) {
+  body {
+    padding: 0.75rem;
+  }
+}
+
+/* Layar super kecil (HP lama, mode split) */
+@media (max-width: 400px) {
+  body {
+    padding: 0.5rem;
+  }
+}
+/* === Reusable Utility Classes === */
+
+.text-muted {
+  color: var(--text-muted);
+}
+
+.link {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+.link:hover {
+  text-decoration: underline;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  padding: 1.25rem;
+  transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.btn {
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 0.375rem;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+.btn:hover {
+  background: color-mix(in srgb, var(--accent) 85%, black);
+}
+
+.divider {
+  border-top: 1px solid var(--border);
+  margin: 1.5rem 0;
+}
+
+.surface {
+  background: var(--surface);
+}
+
+.bordered {
+  border: 1px solid var(--border);
+  border-radius: 0.5rem;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.bordered-main {
+  border-bottom: 1px solid var(--border);
+  border-left: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  border-bottom-right-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.bordered-footer {
+  border-top: 1px solid var(--border);
+  transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+/* Typography tweaks (optional) */
+
+/* Ukuran berbeda untuk tiap heading */
+nav {
+  background: var(--background);
+}
