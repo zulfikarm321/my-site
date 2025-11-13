@@ -4,6 +4,8 @@ date: "2025-11-12"
 description: "In a world that glorifies speed, learning to slow down might be the most radical act of all."
 ---
 
+# Moving at the Speed of Thought
+
 ![Sunlight spilling through a quiet room](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80)
 
 We’ve built a world obsessed with speed — faster tech, faster news, faster everything.  

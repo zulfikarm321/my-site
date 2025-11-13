@@ -47,7 +47,7 @@ export default function PostList({ posts, perPage = 10 }: PostListProps) {
           className="block border-b border-gray-200 dark:border-gray-800 pb-3 hover:text-blue-500 transition-colors">
           <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
             <h4>{post.title}</h4>
-            <time dateTime={post.date} className="italic">
+            <time dateTime={post.date} className="">
               {new Date(post.date).toLocaleDateString("id-ID", {
                 year: "numeric",
                 month: "long",

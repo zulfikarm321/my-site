@@ -3,6 +3,8 @@ title: "Hidup yang Sederhana"
 date: "2025-11-12"
 ---
 
+# Hidup yang Sederhana
+
 Kesederhanaan sering disalahpahami sebagai kekurangan.  
 Padahal, di sanalah ruang untuk bernapas, berpikir, dan benar-benar _merasakan hidup_.
 

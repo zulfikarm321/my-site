@@ -3,6 +3,8 @@ title: "Belajar Pelan, Tapi Dalam"
 date: "2025-11-10"
 ---
 
+# Belajar Pelan, Tapi Dalam
+
 Kita sering merasa harus cepat — cepat paham, cepat sukses, cepat selesai.  
 Tapi semakin sering aku belajar, semakin sadar kalau kecepatan jarang membawa kedalaman.
 

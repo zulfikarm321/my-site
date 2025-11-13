@@ -3,6 +3,8 @@ title: "10 Serial Terbaik yang Wajib Ditonton"
 date: "2025-11-12"
 ---
 
+# 10 Serial Terbaik yang Wajib Ditonton
+
 Terkadang, cerita terbaik tidak disampaikan dalam film — mereka berkembang perlahan, lewat episode, membiarkan kita hidup di dalamnya.  
 Berikut sepuluh serial yang layak kamu tonton — bukan hanya untuk menonton, tapi untuk _merasakan_.
 

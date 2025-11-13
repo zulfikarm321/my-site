@@ -3,6 +3,8 @@ title: "Apa Itu Lorem Ipsum?"
 date: "2025-11-12"
 ---
 
+# Apa Itu Lorem Ipsum?
+
 Kamu mungkin sering melihat teks aneh seperti ini di internet:
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit...

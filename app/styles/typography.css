@@ -32,3 +32,9 @@ p {
 a {
   font-weight: bold;
 }
+
+time {
+  font-style: italic;
+  color: var(--text-muted);
+  font-size: 0.875rem; /* Ukuran teks waktu */
+}
