@@ -24,9 +24,9 @@ h4 {
 /* Paragraf */
 p {
   font-weight: semi-bold;
-  line-height: 1.7;
+  line-height: 1.75;
   font-size: 1rem;
-  color: var(--text-muted);
+  color: var(--text-surface);
 }
 
 a {

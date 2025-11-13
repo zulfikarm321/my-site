@@ -4,7 +4,7 @@ date: "2025-11-12"
 description: "A small reflection on curiosity, learning, and the art of staying curious."
 ---
 
-# Hai, I’m Zulfikar Muhamad 👋
+# Hey, I’m ZUL 👋
 
 I’m a person endlessly curious about how the world works — both the visible systems and the quiet patterns underneath them.  
 I like learning about almost anything: technology, design, philosophy, and the way people think and create meaning.  
@@ -36,4 +36,17 @@ Those moments, I think, are where real creativity lives.
 
 This space isn’t about perfection.  
 It’s about process — documenting what I learn, what I fail at, and what I’m still trying to understand.  
-If any of my wo
+If any of my words make you pause, reflect, or simply feel seen,  
+then this little corner of the web has already done what it was meant to do.
+
+---
+
+### Connect With Me
+
+- [GitHub](https://github.com/zulfikarm321)
+- [instagram](https://www.instagram.com/zulfikar_muhamad_/)
+- [LinkedIn](https://www.linkedin.com/in/zulfikar-muhamad-152966275/)
+
+---
+
+_Built with curiosity, caffeine, and a love for the long process of learning._

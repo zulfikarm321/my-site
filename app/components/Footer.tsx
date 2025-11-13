@@ -2,14 +2,13 @@ import { Github, Twitter, Linkedin, Instagram, Dribbble } from "lucide-react";
 
 const Footer = () => {
   return (
-    <div className="flex justify-between items-center bordered-footer pt-5 mt-10">
+    <div className="flex flex-col items-center sm:flex-row space-y-5 justify-between bordered-footer pt-5 mt-10">
       <div>
-        {" "}
         <p className="text-xs text-center opacity-80">
           © {new Date().getFullYear()} Zulfikar — crafted with curiosity &
           caffeine.
         </p>
-        <div className="text-[10px] opacity-60 italic">
+        <div className="text-[10px] opacity-60 italic text-center sm:text-left">
           Built with Next.js & Tailwind CSS
         </div>
       </div>

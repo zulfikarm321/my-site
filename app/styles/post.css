@@ -29,9 +29,10 @@
 
 /* Paragraph */
 .post p {
+  font-size: 18px;
   margin-bottom: 1.25rem;
-  color: var(--foreground);
-  font-weight: 500;
+  color: var(--text-foreground);
+  font-weight: 400;
 }
 
 /* Links */
@@ -115,6 +116,26 @@
 .post th {
   background: var(--surface);
   font-weight: 600;
+}
+
+/* Gaya khusus untuk gambar di dalam post */
+.post-content img {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  object-fit: cover;
+}
+
+/* Tambahan opsional: caption markdown pakai alt text */
+.post-content img + em {
+  display: block;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
 }
 
 /* POST */

@@ -1,4 +1,4 @@
-## Hey, I’m ZUL 👋
+# Hey, I’m ZUL 👋
 
 A person who’s endlessly curious about the world and how things work.
 
