@@ -1,3 +1,4 @@
+import GalleryModal from "@/app/components/GalleryModal";
 import Image from "next/image";
 
 const images = [
@@ -27,21 +28,7 @@ export default function GalleryPage() {
         A small collection of still moments — pieces of time I wanted to keep.
       </p>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-        {images.map((img, i) => (
-          <div
-            key={i}
-            className="relative overflow-hidden rounded-lg shadow-md hover:scale-105 transition-transform">
-            <Image
-              src={img.src}
-              alt={img.alt}
-              width={600}
-              height={400}
-              className="object-cover w-full h-full"
-            />
-          </div>
-        ))}
-      </div>
+      <GalleryModal images={images} />
     </>
   );
 }
