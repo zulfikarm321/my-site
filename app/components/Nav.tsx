@@ -8,7 +8,7 @@ import { usePathname } from "next/navigation";
 const Nav = () => {
   const pathname = usePathname();
 
-  const linkClass = (path) =>
+  const linkClass = (path: string) =>
     pathname === path
       ? "underline underline-offset-4"
       : "hover:underline underline-offset-4";
