@@ -1,9 +1,16 @@
 import { MarkdownRenderer } from "@/app/components/markdown";
 import PostList from "@/app/components/PostList";
 import { getAllPosts } from "./lib/posts";
+// import { supabaseServer } from "./lib/supabase/server";
 
-export default function Home() {
+export default async function Home() {
   const posts = getAllPosts();
+  // const supabase = await supabaseServer();
+
+  // const { data: posts } = await supabase
+  //   .from("posts")
+  //   .select("*")
+  //   .order("created_at", { ascending: false });
 
   return (
     <>
