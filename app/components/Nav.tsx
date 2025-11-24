@@ -14,7 +14,7 @@ const Nav = () => {
       : "hover:underline underline-offset-4";
 
   return (
-    <nav className="sticky z-10 top-2 flex flex-col sm:flex-row justify-between items-center bordered p-2">
+    <nav className="sticky z-10 top-0 flex flex-col sm:flex-row justify-between items-center bordered p-2">
       <Logo />
 
       <ul className="flex space-x-4 items-center">

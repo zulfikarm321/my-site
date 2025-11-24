@@ -3,6 +3,13 @@ title: "The Quiet Between Things"
 date: "2025-11-05"
 ---
 
+---
+
+title: "The Quiet Between Things"
+date: "2025-11-05"
+
+---
+
 # The Quiet Between Things
 
 I’ve learned that silence is rarely empty.  
