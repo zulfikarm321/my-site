@@ -6,13 +6,13 @@ import { cookies } from "next/headers";
 
 export default async function Home() {
   const posts = getAllPosts();
-=
+
   return (
     <>
       <MarkdownRenderer filePath="bio.md" />
       <hr className="my-10" />
       <h2 className="mb-5">My Latest Post</h2>
-   =
+      =
       <PostList posts={posts} perPage={5} />
     </>
   );
