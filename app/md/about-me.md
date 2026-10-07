@@ -4,49 +4,55 @@ date: "2025-11-12"
 description: "A small reflection on curiosity, learning, and the art of staying curious."
 ---
 
-# Hey, I’m ZUL 👋
 
-I’m a person endlessly curious about how the world works — both the visible systems and the quiet patterns underneath them.  
-I like learning about almost anything: technology, design, philosophy, and the way people think and create meaning.  
-I don’t chase expertise — I chase understanding. Every day is another attempt to see things a little clearer.
+## Kenapa Saya Membuat Ruang Ini
 
----
+Website ini adalah sudut kecil saya di internet — tempat untuk menulis, bereksperimen, menyimpan hal-hal yang saya pelajari, dan sesekali menuangkan pikiran yang muncul entah dari mana.
 
-## Why I Built This Space
+Di sini mungkin kamu akan menemukan tulisan yang cukup serius, eksperimen yang belum sempurna, catatan kecil, atau rabbit hole yang awalnya cuma ingin mencari satu jawaban tetapi berakhir membaca dua puluh halaman.
 
-This website is my small corner of the internet — a place to write, reflect, and document what I learn along the way.  
-Some things you’ll find here are half-formed thoughts, some are deep dives, and some are just quiet notes to myself.  
-That’s intentional. I believe growth happens in fragments — not in perfect essays.
+Dan saya rasa itu tidak masalah.
 
-> “We are all unfinished works — learning, unlearning, and rebuilding.”
+Saya percaya proses belajar memang tidak selalu rapi. Kadang berupa potongan-potongan kecil yang baru terasa masuk akal setelah semuanya terkumpul.
+
+> "Kita semua masih dalam proses — belajar, melupakan, mencoba lagi, lalu membangun ulang."
 
 ---
 
-## Beyond the Screen
+## Di Luar Layar
 
-Outside of the code and text, I enjoy observing small, quiet details —  
-how light moves through a room, how people talk when they’re at ease,  
-how ideas connect when you stop trying to control them.
+Tidak semua hal menarik terjadi di depan layar.
 
-Those moments, I think, are where real creativity lives.
+Saya juga suka memperhatikan hal-hal kecil yang sering dilewatkan — bagaimana cahaya masuk ke sebuah ruangan, bagaimana seseorang berbicara ketika sudah merasa nyaman, atau bagaimana sebuah ide tiba-tiba terhubung dengan sesuatu yang sebelumnya tidak ada hubungannya sama sekali.
 
----
+Mungkin terdengar sepele.
 
-## A Work in Progress
+Tapi sering kali justru dari hal-hal seperti itulah muncul ide yang menarik.
 
-This space isn’t about perfection.  
-It’s about process — documenting what I learn, what I fail at, and what I’m still trying to understand.  
-If any of my words make you pause, reflect, or simply feel seen,  
-then this little corner of the web has already done what it was meant to do.
+Buat saya, kreativitas tidak selalu datang ketika kita sedang serius mencarinya. Kadang ia muncul ketika kita berhenti sebentar dan membiarkan pikiran berjalan ke mana-mana.
 
 ---
 
-### Connect With Me
+## Masih Dalam Proses
+
+Website ini tidak dibuat untuk terlihat sempurna.
+
+Justru sebaliknya, ini adalah tempat untuk mendokumentasikan proses — apa yang sedang saya pelajari, apa yang berhasil, apa yang gagal total, dan hal-hal yang sampai sekarang masih belum saya mengerti.
+
+Saya mungkin akan mengubah tulisan lama. Mencoba hal baru. Menghapus sesuatu. Membuat ulang sesuatu yang sebelumnya sudah dianggap selesai.
+
+Begitulah prosesnya.
+
+Kalau ada satu tulisan di sini yang membuat kamu berpikir, tertawa kecil, mendapatkan ide, atau sekadar merasa, **"Oh, ternyata bukan cuma saya yang berpikir begitu,"** maka rasanya website kecil ini sudah menjalankan tugasnya.
+
+---
+
+### Temukan Saya
 
 - [GitHub](https://github.com/zulfikarm321)
-- [instagram](https://www.instagram.com/zulfikar_muhamad_/)
+- [Instagram](https://www.instagram.com/zulfikar_muhamad_/)
 - [LinkedIn](https://www.linkedin.com/in/zulfikar-muhamad-152966275/)
 
 ---
 
-_Built with curiosity, caffeine, and a love for the long process of learning._
+*Dibangun dengan rasa penasaran, sedikit kafein, dan proses panjang untuk memahami berbagai hal.*

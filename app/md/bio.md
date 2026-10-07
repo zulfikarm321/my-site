@@ -1,6 +1,11 @@
-# Hey, I’m ZUL 👋
+Saya adalah manusia yang rasa penasarannya kadang tidak tahu diri.
 
-A person who’s endlessly curious about the world and how things work.
+Saya suka mencari tahu bagaimana sesuatu bekerja—mulai dari teknologi, desain, filsafat, perilaku manusia, sampai hal-hal kecil yang sebenarnya tidak perlu dipikirkan terlalu dalam… tapi entah kenapa tetap saya pikirkan.
 
-I like learning about almost anything — technology, design, philosophy, human behavior, and the quiet moments that make life feel real.  
-I don’t claim to be an expert in any of these, but I find joy in the process of figuring things out — the research, the experiments, the failures, the tiny breakthroughs that make everything worth it.
+Saya bukan ahli dalam semua hal itu. Jauh dari ahli, malah. Saya cuma suka belajar, mencoba, membongkar sesuatu, lalu terkadang membuatnya tidak sengaja rusak sebelum akhirnya berhasil memperbaikinya lagi. 😄
+
+Bagi saya, belajar bukan tentang selalu punya jawaban, tapi tentang menikmati proses ketika perlahan mulai memahami sesuatu. Ada risetnya, ada eksperimennya, ada gagalnya, dan tentu saja ada momen kecil ketika akhirnya berkata, **“Ohhh… ternyata begitu.”**
+
+Website ini adalah tempat saya menyimpan sebagian dari perjalanan itu—ide, eksperimen, hal-hal yang sedang dipelajari, dan mungkin beberapa hal random yang tiba-tiba terasa menarik.
+
+Kalau kamu menemukan sesuatu yang berguna di sini, berarti misi kecil saya berhasil. Kalau tidak… setidaknya kita sudah sama-sama penasaran. :)
