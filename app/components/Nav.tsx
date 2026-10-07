@@ -30,6 +30,9 @@ const Nav = () => {
         <Link href="/gallery" className={linkClass("/gallery")}>
           Gallery
         </Link>
+        <Link href="/tools" className={linkClass("/tools")}>
+          Tools
+        </Link>
         <ThemeToggle />
       </ul>
     </nav>
