@@ -1,6 +1,6 @@
 ---
 title: "Belajar Caranya Belajar"
-date: "2026-01-26"
+date: "2026-11-09"
 ---
 
 # Belajar Caranya Belajar

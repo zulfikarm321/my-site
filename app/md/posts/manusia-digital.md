@@ -1,6 +1,6 @@
 ---
 title: "Manusia Digital"
-date: "2025-11-11"
+date: "2026-11-09"
 ---
 
 Kita hidup di dunia yang nyaris selalu _online_.  

@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu Lorem Ipsum?"
-date: "2025-11-12"
+date: "2026-11-09"
 ---
 
 # Apa Itu Lorem Ipsum?

@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu Cinta?"
-date: "2025-11-13"
+date: "2026-11-09"
 ---
 
 # Apa itu cinta?
